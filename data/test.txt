@@ -1,0 +1,4 @@
+there are 4 csv file
+train.csv to learn machine how to predict value
+test.csv to train machine how to predict new value
+submit.csv to store result y predict
